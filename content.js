@@ -22,7 +22,7 @@ function createCatalogueLink() {
             ".image-toolbar.view-toolbar"
           );
           if (targetElement) {
-            targetElement.appendChild(linkContainer);
+            targetElement.insertBefore(linkContainer, targetElement.firstChild);
           } else {
             console.error("Place to put link was not found!");
           }
