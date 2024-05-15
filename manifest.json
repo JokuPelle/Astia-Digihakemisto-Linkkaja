@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Astia-Digihakemisto Linkkaaja",
-  "version": "1.1",
-  "description": "Tämä laajennus luo Astiassa oleville dokumenteille linkin vastaavaan tiedostoon Digihakemistossa.",
+  "version": "1.2",
+  "description": "Tämä laajennus luo Kansallisarkiston Astia-palvelussa oleville dokumenteille linkin vastaavaan tiedostoon Digihakemistossa.",
   "icons": {
     "128": "icons/icon128.png"
   },
@@ -14,7 +14,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["linkContainer.html"],
+      "resources": ["linkTemplate.html"],
       "matches": ["https://astia.narc.fi/*"]
     }
   ]
