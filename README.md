@@ -8,6 +8,7 @@ Digihakemisto asettaa generoituihin lähdeviitteisiin suoran linkin Astiaan, jot
 
 Laajennus lisää Astian katselunäkymän "koko ruutu"-näppäimen viereen linkin vastaavaan Digihakemisto-sivuun.
 
-Ladattavissa täältä!
+<h2>Ladattavissa täältä!</h2>
 Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
+
 Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
