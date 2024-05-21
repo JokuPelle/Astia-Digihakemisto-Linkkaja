@@ -7,3 +7,7 @@ Omasta mielestä Digihakemiston käyttöliittymä on paljon helppokäyttöisempi
 Digihakemisto asettaa generoituihin lähdeviitteisiin suoran linkin Astiaan, joten luodun linkin kautta ei normaalisti pääse helposti takaisin Digihakemistoon.
 
 Laajennus lisää Astian katselunäkymän "koko ruutu"-näppäimen viereen linkin vastaavaan Digihakemisto-sivuun.
+
+Ladattavissa täältä!
+Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
+Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
