@@ -1,4 +1,4 @@
-<h1>Digihakemisto-linkki Astian dokumenttisivulle</h1>
+# Digihakemisto-linkki Astian dokumenttisivulle</h1>
 
 Tämä Chrome-selainlaajennus luo Astiassa oleville dokumenteille linkin vastaavaan tiedostoon Digihakemistossa.
 Tämä on erityisesti hyödyllistä esimerkiksi tilanteessa, että Genissä on Astia-linkkejä.
@@ -8,10 +8,10 @@ Digihakemisto asettaa generoituihin lähdeviitteisiin suoran linkin Astiaan, jot
 
 Laajennus lisää Astian katselunäkymän "koko ruutu"-näppäimen viereen linkin vastaavaan Digihakemisto-sivuun.
 
-<h2>Ladattavissa täältä!</h2>
+## Ladattavissa täältä!
 Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
 
 Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
 
-<h3>Muutokset</h3>
-v1.3: Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.
+## Muutokset</h3>
+**v1.3:** Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.
