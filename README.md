@@ -12,3 +12,6 @@ Laajennus lisää Astian katselunäkymän "koko ruutu"-näppäimen viereen linki
 Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
 
 Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
+
+<h3>Muutokset</h3>
+v1.3: Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.
