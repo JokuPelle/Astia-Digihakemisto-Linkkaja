@@ -1,4 +1,4 @@
-# Digihakemisto-linkki Astian dokumenttisivulle</h1>
+# Digihakemisto-linkki Astian dokumenttisivulle
 
 Tämä Chrome-selainlaajennus luo Astiassa oleville dokumenteille linkin vastaavaan tiedostoon Digihakemistossa.
 Tämä on erityisesti hyödyllistä esimerkiksi tilanteessa, että Genissä on Astia-linkkejä.
