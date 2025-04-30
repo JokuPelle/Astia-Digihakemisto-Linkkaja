@@ -15,4 +15,5 @@ Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaa
 
 ## Muutokset</h3>
 **v1.4:** Päivitetty toimimaan Astian uuden käyttöliittymän kanssa.
+
 **v1.3:** Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.
