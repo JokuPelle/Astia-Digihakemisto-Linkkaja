@@ -6,7 +6,7 @@ Tämä on erityisesti hyödyllistä esimerkiksi tilanteessa, että Genissä on A
 Omasta mielestä Digihakemiston käyttöliittymä on paljon helppokäyttöisempi, ja hakemiston metadatat usein hyödyllisiä.
 Digihakemisto asettaa generoituihin lähdeviitteisiin suoran linkin Astiaan, joten luodun linkin kautta ei normaalisti pääse helposti takaisin Digihakemistoon.
 
-Laajennus lisää Astian katselunäkymän "koko ruutu"-näppäimen viereen linkin vastaavaan Digihakemisto-sivuun.
+Laajennus lisää Astian katselunäkymän "Ruudukko"-näppäimen viereen punaisen linkin vastaavaan Digihakemisto-sivuun.
 
 ## Ladattavissa täältä!
 Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
@@ -14,4 +14,5 @@ Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgc
 Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
 
 ## Muutokset</h3>
+**v1.4:** Päivitetty toimimaan Astian uuden käyttöliittymän kanssa.
 **v1.3:** Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.

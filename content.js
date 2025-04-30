@@ -3,7 +3,7 @@ function createCatalogueLink() {
   const urlParams = new URLSearchParams(window.location.search);
   const fileId = urlParams.get("fileId");
   const aineistoId = urlParams.get("aineistoId");
-  const inputValue = document.getElementById("page-number").value;
+  const inputValue = document.getElementById("page-number").innerText;
 
   if (fileId && aineistoId) {
     const linkUrl = `https://digihakemisto.net/item/${aineistoId}/${fileId}/${inputValue}`;
@@ -20,7 +20,7 @@ function createCatalogueLink() {
         if (existingLink) {
           existingLink.href = linkUrl;
         } else {
-          const targetElement = document.querySelector(".image-toolbar.view-toolbar");
+          const targetElement = document.getElementById("imagelist-fullscreen").parentElement;
           if (targetElement) {
             targetElement.insertBefore(linkTemplate, targetElement.firstChild);
           } else {
