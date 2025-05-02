@@ -17,5 +17,10 @@
       "resources": ["linkTemplate.html"],
       "matches": ["https://astia.narc.fi/*"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{898d00d5-1667-4b9b-85d2-1eadab27f3bb}"
+    }
+  }
 }
