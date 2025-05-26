@@ -9,11 +9,15 @@ Digihakemisto asettaa generoituihin lähdeviitteisiin suoran linkin Astiaan, jot
 Laajennus lisää Astian katselunäkymän "Ruudukko"-näppäimen viereen punaisen linkin vastaavaan Digihakemisto-sivuun.
 
 ## Ladattavissa täältä!
+
 Chrome: https://chromewebstore.google.com/detail/astia-digihakemisto-linkk/gecgccjegpifagioihcnnjcldkdfhmka
 
 Firefox: https://addons.mozilla.org/fi/firefox/addon/astia-digihakemisto-linkkaaja
 
 ## Muutokset</h3>
+
+**v1.5:** Korjattu sivun avautuminen väärään url osoitteeseen.
+
 **v1.4:** Päivitetty toimimaan Astian uuden käyttöliittymän kanssa.
 
 **v1.3:** Digihakemisto avautuu nyt samalle sivulle. Jos haluat linkin avautuvan uudelle välilehdelle, voit yhä tehdä niin esim. painamalla linkkiä hiiren rullalla.

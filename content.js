@@ -3,7 +3,7 @@ function createCatalogueLink() {
   const urlParams = new URLSearchParams(window.location.search);
   const fileId = urlParams.get("fileId");
   const aineistoId = urlParams.get("aineistoId");
-  const inputValue = document.getElementById("page-number").innerText;
+  const inputValue = document.getElementById("page-number").value;
 
   if (fileId && aineistoId) {
     const linkUrl = `https://digihakemisto.net/item/${aineistoId}/${fileId}/${inputValue}`;
